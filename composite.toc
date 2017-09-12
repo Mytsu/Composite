@@ -1,0 +1,4 @@
+\select@language {brazil}
+\beamer@sectionintoc {1}{Problema}{2}{0}{1}
+\beamer@sectionintoc {2}{Composite}{9}{0}{2}
+\beamer@sectionintoc {3}{Conclus\IeC {\~a}o}{21}{0}{3}
