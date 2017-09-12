@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.8)  24 JUN 2017 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.8)  12 SEP 2017 19:23
 entering extended mode
 **./composite.tex
 (composite.tex
@@ -1185,7 +1185,7 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-No file composite.aux.
+(composite.aux)
 \openout1 = `composite.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1202,6 +1202,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1277,6 +1278,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
+ (composite.out)
+(composite.out)
 \@outlinefile=\write5
 \openout5 = `composite.out'.
 
@@ -1361,7 +1364,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \includegraphics on input line 21.
 \c@lstlisting=\count182
 
-No file composite.nav.
+(composite.nav)
 (C:\Users\admin\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -1397,7 +1400,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 [3
 
-] <composite-errado.png, id=33, 316.93407pt x 146.79843pt>
+] <composite-errado.png, id=44, 316.93407pt x 146.79843pt>
 File: composite-errado.png Graphic file (type png)
 
 <use composite-errado.png>
@@ -1412,7 +1415,7 @@ Overfull \vbox (3.49677pt too high) detected at line 37
  <./composite-errado.png>] [5
 
 ]
-<composite-errado2.png, id=46, 313.17pt x 152.82094pt>
+<composite-errado2.png, id=57, 313.17pt x 152.82094pt>
 File: composite-errado2.png Graphic file (type png)
 
 <use composite-errado2.png>
@@ -1442,7 +1445,7 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 
 ] [11
 
-] <composite.png, id=83, 332.74312pt x 204.01219pt>
+] <composite.png, id=93, 332.74312pt x 204.01219pt>
 File: composite.png Graphic file (type png)
 
 <use composite.png>
@@ -1495,7 +1498,7 @@ Overfull \vbox (9.2587pt too high) detected at line 260
 
 [18
 
-] <Composite_1.jpg, id=122, 391.4625pt x 383.93437pt>
+] <Composite_1.jpg, id=132, 391.4625pt x 383.93437pt>
 File: Composite_1.jpg Graphic file (type jpg)
  <use Composite_1.jpg>
 Package pdftex.def Info: Composite_1.jpg used on input line 272.
@@ -1533,15 +1536,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
  (composite.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 307.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 307.
+Package rerunfilecheck Info: File `composite.out' has not changed.
+(rerunfilecheck)             Checksum: 26BAA7129161E5AB666E4FDE91834784;137.
 
-
-Package rerunfilecheck Warning: File `composite.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `composite.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  26BAA7129161E5AB666E4FDE91834784;137.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1551,10 +1548,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22697 strings out of 493328
- 437310 string characters out of 3143461
- 554513 words of memory out of 3000000
- 25654 multiletter control sequences out of 15000+200000
+ 22773 strings out of 493328
+ 437955 string characters out of 3143461
+ 555523 words of memory out of 3000000
+ 25722 multiletter control sequences out of 15000+200000
  13275 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,83p,1903b,1359s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1563,9 +1560,9 @@ X/fonts/type1/public/amsfonts/cm/cmss10.pfb><D:/Windows/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmss8.pfb><D:/Windows/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
 bx10.pfb><D:/Windows/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><D:/Windo
 ws/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on composite.pdf (25 pages, 159148 bytes).
+Output written on composite.pdf (25 pages, 159836 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
+ 205 PDF objects out of 1000 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
